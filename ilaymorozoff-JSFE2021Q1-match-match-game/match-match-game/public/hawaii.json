@@ -1,0 +1,75 @@
+[
+  {
+    "category": "easy",
+    "images": [
+      "001-seashell.png",
+      "002-jellyfish.png",
+      "003-windsurf.png",
+      "004-airplane.png",
+      "005-photo-camera.png",
+      "006-jeep.png",
+      "007-lighthouse.png",
+      "008-anchor.png"
+    ]
+  },
+  {
+    "category": "medium",
+    "images": [
+      "001-seashell.png",
+      "002-jellyfish.png",
+      "003-windsurf.png",
+      "004-airplane.png",
+      "005-photo-camera.png",
+      "006-jeep.png",
+      "007-lighthouse.png",
+      "008-anchor.png",
+      "009-shell.png",
+      "010-smartphone.png",
+      "011-bronzer.png",
+      "012-radio.png",
+      "013-cocktail-1.png",
+      "014-surf.png",
+      "015-flamingo.png",
+      "016-orange.png",
+      "017-cocktail.png",
+      "018-ukelele.png"
+    ]
+  },
+  {
+    "category": "hard",
+    "images": [
+      "001-seashell.png",
+      "002-jellyfish.png",
+      "003-windsurf.png",
+      "004-airplane.png",
+      "005-photo-camera.png",
+      "006-jeep.png",
+      "007-lighthouse.png",
+      "008-anchor.png",
+      "009-shell.png",
+      "010-smartphone.png",
+      "011-bronzer.png",
+      "012-radio.png",
+      "013-cocktail-1.png",
+      "014-surf.png",
+      "015-flamingo.png",
+      "016-orange.png",
+      "017-cocktail.png",
+      "018-ukelele.png",
+      "019-luggage.png",
+      "020-whale.png",
+      "021-pelican.png",
+      "022-ice-tea.png",
+      "023-ice-cream.png",
+      "024-plant.png",
+      "025-watermelon.png",
+      "026-soda.png",
+      "027-beach-umbrella.png",
+      "028-pool.png",
+      "029-grill.png",
+      "030-thermometer.png",
+      "031-sand-bucket.png",
+      "032-shirt.png"
+    ]
+  }
+]

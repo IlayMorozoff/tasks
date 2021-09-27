@@ -1,0 +1,75 @@
+[
+  {
+    "category": "easy",
+    "images": [
+      "001-australian shepherd.png",
+      "002-basenji.png",
+      "003-basset-hound.png",
+      "004-beagle.png",
+      "005-border-collie.png",
+      "006-boxer.png",
+      "007-bull-terrier.png",
+      "008-bulldog.png"
+    ]
+  },
+  {
+    "category": "medium",
+    "images": [
+      "001-australian shepherd.png",
+      "002-basenji.png",
+      "003-basset-hound.png",
+      "004-beagle.png",
+      "005-border-collie.png",
+      "006-boxer.png",
+      "007-bull-terrier.png",
+      "008-bulldog.png",
+      "009-chihuahua.png",
+      "010-corgi.png",
+      "011-dachshund.png",
+      "012-dalmatian.png",
+      "013-beagle.png",
+      "014-french-bulldog.png",
+      "015-golden-etriever.png",
+      "016-great-dane.png",
+      "017-jackrussell-terrier.png",
+      "018-labrador-retriever.png"
+    ]
+  },
+  {
+    "category": "hard",
+    "images": [
+      "001-australian shepherd.png",
+      "002-basenji.png",
+      "003-basset-hound.png",
+      "004-beagle.png",
+      "005-border-collie.png",
+      "006-boxer.png",
+      "007-bull-terrier.png",
+      "008-bulldog.png",
+      "009-chihuahua.png",
+      "010-corgi.png",
+      "011-dachshund.png",
+      "012-dalmatian.png",
+      "013-beagle.png",
+      "014-french-bulldog.png",
+      "015-golden-etriever.png",
+      "016-great-dane.png",
+      "017-jackrussell-terrier.png",
+      "018-labrador-retriever.png",
+      "019-miniature-schnauzer.png",
+      "020-pitbull.png",
+      "021-pointer.png",
+      "022-pomeranian.png",
+      "023-poodle.png",
+      "024-rottweiler.png",
+      "025-saint-bernard.png",
+      "026-samoyed.png",
+      "027-sharpei.png",
+      "028-shibainu.png",
+      "029-shihtzu.png",
+      "030-siberian-husky.png",
+      "031-yorkshire-terrier.png",
+      "032-shiba.png"
+    ]
+  }
+]

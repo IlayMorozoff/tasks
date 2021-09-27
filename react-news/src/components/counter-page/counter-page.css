@@ -1,0 +1,24 @@
+.pages_counters {
+  display: flex;
+}
+
+.page_number::-webkit-outer-spin-button,
+.page_number::-webkit-inner-spin-button {
+  -webkit-appearance: none; 
+}
+
+.page_number,
+.page_number:hover,
+.page_number:focus {
+  appearance: none;
+  -moz-appearance: textfield;
+  font-size: 20px;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 auto;
+}

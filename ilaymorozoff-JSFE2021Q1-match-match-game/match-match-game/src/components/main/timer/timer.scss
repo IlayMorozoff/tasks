@@ -1,0 +1,19 @@
+.timer-wrapper {
+  width: 300px;
+  height: 60px;
+  border-radius: 10px;
+  color: #fafafa;
+  background: rgb(84,9,121);
+  background: linear-gradient(90deg, rgba(84,9,121,0.9360119047619048) 5%, rgba(6,149,124,1) 50%, rgba(0,212,255,1) 100%);
+  margin: 0 auto;
+  box-shadow: 0px 3px 5px 0px #00000024, 0px 1px 9px 0px #0000001F, 0px 3px 5px 0px #00000033;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.timer {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+}

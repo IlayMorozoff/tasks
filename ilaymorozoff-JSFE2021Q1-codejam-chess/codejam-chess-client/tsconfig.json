@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "sourceMap": true,
+    "rootDir": "./src",
+    "noImplicitAny": true,
+    "baseUrl": "./",
+    "paths": {
+      "utilities/*":["src/utilities/*"],
+      "assets/*":["src/assets/*"],
+    },
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "plugins": [{ "name": "typescript-plugin-css-modules" }]
+  }
+}

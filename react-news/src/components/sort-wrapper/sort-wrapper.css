@@ -1,0 +1,15 @@
+.sort__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.radio {
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+.inputs__wrapper {
+  display: flex;
+}

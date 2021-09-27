@@ -1,0 +1,37 @@
+.img__wrapper {
+  max-width: 1000px;
+  max-height: 800px;
+}
+
+.img__error {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  box-shadow: 8.5px 9px 16px 0 #000;
+}
+
+.error404 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 30px;
+}
+
+.something {
+  font-size: 50px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.text__error {
+  font-size: 50px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.back_link {
+  border-radius: 10px !important;
+  padding: 20px !important;
+  margin-top: 30px;
+  display: inline-block;
+}

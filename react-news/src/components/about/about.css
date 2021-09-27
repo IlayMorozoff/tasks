@@ -1,0 +1,15 @@
+.text__about {
+  font-size: 40px;
+  background: rgba(55, 186, 233, 1.0);
+  background: -webkit-radial-gradient(right, rgba(55, 186, 233, 1.0), rgba(199, 179, 226, 1.0));
+  background: -moz-radial-gradient(right, rgba(55, 186, 233, 1.0), rgba(199, 179, 226, 1.0));
+  background: radial-gradient(to left, rgba(55, 186, 233, 1.0), rgba(199, 179, 226, 1.0));
+  padding: 60px;
+  border-radius: 10px;
+  box-shadow: 8.5px 9px 16px 0 #000;
+  margin-top: 40px;
+}
+
+.about {
+  margin: 40px;
+}

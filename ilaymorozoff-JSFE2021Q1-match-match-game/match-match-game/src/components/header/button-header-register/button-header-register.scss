@@ -1,0 +1,8 @@
+@import '../../header/variables/variables.scss';
+
+.header__button-register {
+  width: 207px;
+  height: 36px;
+  grid-column: span 5;
+  justify-self: end;
+}

@@ -1,0 +1,42 @@
+.score {
+  margin: 100px;
+  padding: 50px;
+}
+
+
+.score-item {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.4);
+  display: flex;
+  // margin-left: 95px;
+  margin-top: 25px;
+  justify-content: space-between;
+}
+
+.img-score {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  grid-row: span 2;
+  margin-right: 20px;
+}
+
+.first-last-name-score {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.email-score {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.wrapper-item {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.score-score {
+  font-size: 20px;
+  font-weight: 500;
+  // margin-right: 100px;
+}

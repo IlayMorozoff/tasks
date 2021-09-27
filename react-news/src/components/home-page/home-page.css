@@ -1,0 +1,28 @@
+@keyframes opacity {   
+  0% {     
+    opacity: 0%;   
+  }   
+  100% {
+    opacity: 100%;   
+  }
+}
+
+/* @keyframes right {   
+  0% {     
+    position: relative; 
+    right: 0%;   
+  } 
+
+  100% {
+    position: relative; 
+    right: 200%;  
+  }
+} */
+
+.opacity { 
+  animation: opacity 2000ms;
+}
+
+/* .right { 
+  animation: right 300ms;
+} */

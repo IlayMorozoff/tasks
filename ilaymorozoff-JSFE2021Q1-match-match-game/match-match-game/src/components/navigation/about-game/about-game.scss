@@ -1,0 +1,9 @@
+@import '../../header/variables/variables.scss';
+
+.header__about-game-icon {
+  background-image: url("../../../assets/icons/about-game-icon.png");
+}
+
+.active {
+  background-color: $hoverColorNav;
+}

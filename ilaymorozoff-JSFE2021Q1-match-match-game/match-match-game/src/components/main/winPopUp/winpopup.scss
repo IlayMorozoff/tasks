@@ -1,0 +1,32 @@
+.win-popup {
+  background-color: rgba($color: #000000, $alpha: 0.5);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.wrapper-winpopup {
+  display: flex;
+  width: 360px;
+  height: 112px;
+  background: #fafafa;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-winpopup {
+  width: 53px;
+  height: 35px;
+  background-color: #2196f3;
+  color: #fafafa;
+  margin-top: 10px;
+}
